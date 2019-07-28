@@ -2,4 +2,4 @@
 
 | PACKAGE NAME | DEV DEPENDENCY     |
 | ------------ | ------------------ |
-| typescript   | :heavy_check_mark: |
+| tslint       | :heavy_check_mark: |

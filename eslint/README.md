@@ -1,7 +1,9 @@
-| Packages |
-| ---- | 
-| eslint |
-| eslint-plugin-import |
-| eslint-plugin-node |
-| eslint-plugin-promise |
-| eslint-plugin-react |
+## Packages
+
+| PACKAGE NAME          | DEV DEPENDENCY     |
+| --------------------- | ------------------ |
+| eslint                | :heavy_check_mark: |
+| eslint-plugin-import  | :heavy_check_mark: |
+| eslint-plugin-node    | :heavy_check_mark: |
+| eslint-plugin-promise | :heavy_check_mark: |
+| eslint-plugin-react   | :heavy_check_mark: |
