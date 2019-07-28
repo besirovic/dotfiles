@@ -1,0 +1,3 @@
+| PACKAGES |
+| --- |
+| tslint-config-airbnb |

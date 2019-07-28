@@ -1,0 +1,18 @@
+{
+  "plugins": ["cypress"],
+  "env": {
+    "node": true,
+    "browser": true,
+    "jest": true,
+    "es6": true,
+    "amd": true,
+    "mocha": true
+  },
+  "globals": {
+    "expect": true,
+    "cy": true
+  },
+  "rules": {
+    "cypress/globals": true
+  }
+}
